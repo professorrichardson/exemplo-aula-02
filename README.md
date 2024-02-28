@@ -196,6 +196,8 @@ edite ou adicione e envie quando terminar
 | Google Class | [ClassRoom][class] |
 
 
+### Referências: 
+[ALURA][alura]:  Projeto de vida: organizando objetivos futuros com matemática aplicada aula-02
 ## License
 
 MIT
